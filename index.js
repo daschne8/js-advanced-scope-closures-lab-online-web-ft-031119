@@ -14,3 +14,8 @@ function produceTipCalculator(tip){
     return tip * bill
   }
 }
+class Driver {
+  constructor(name) {
+    this.name = name
+  }
+}
